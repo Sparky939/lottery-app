@@ -1,0 +1,30 @@
+﻿.white{
+    color: white;
+    background-color: grey;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.blue {
+    color: blue;
+    background-color: cornflowerblue;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.green {
+    color: green;
+    background-color: darkseagreen;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.pink {
+    color: pink;
+    background-color: hotpink;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.yellow {
+    color: yellow;
+    background-color: darkgoldenrod;
+    font-weight: bold;
+    font-size: 20pt;
+}
